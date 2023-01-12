@@ -9,7 +9,4 @@ public class Switch{
         return state;
     }
 
-    public static void print(){
-        System.out.println(state);
-    }
 }
